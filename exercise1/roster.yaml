@@ -1,9 +1,15 @@
+
 interns:
 - name: April Ludgate
   email: april.ludgate@noaa.gov
   mentors:
   - Leslie Knope
   - Ron Swanson
+- name: Lucas Jones
+  email: lucas.jones@noaa.gov
+  mentors:
+    - Jessica Meixner
+    - Neil Barton
 employees:
 - name: Milton Waddams
   email: milton.waddams@noaa.gov
