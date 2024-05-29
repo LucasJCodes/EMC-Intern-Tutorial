@@ -4,7 +4,7 @@ program hello
   ! in fortran, you have to define variable types
   character(50) :: myname, myemail
 
-  myname = "John Smith"
-  myemail = "john.smith@noaa.gov"
+  myname = "Lucas Jones"
+  myemail = "lucas.jones@noaa.gov"
   print *, "Hello world! My name is " // trim(myname) // " and my email address is " // trim(myemail) // "."
 end program hello
